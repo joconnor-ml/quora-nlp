@@ -1,0 +1,12 @@
+submissions/
+models/
+data/
+is_that_a_duplicate_quora_question/
+*#
+*~
+*.csv
+*.gz
+*.zip
+*.h5
+.env/
+__*
